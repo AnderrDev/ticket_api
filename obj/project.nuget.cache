@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKAtsg4aDHub9jBEsJtnMwNNUX45akW65gDHOE58GkKou009kvlJgnjqLpGmTaNOBleqqAZfb06b0idmdyRIMA==",
+  "dgSpecHash": "E2QwxcfcBqVosoRAnuwyuZFoRnlXVWjGji6Vk59waFYZMDLxquvD6UAl3ikS++eZ2pzrg/9Xj/jj7ERe7CnonQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\back\\ticket_api\\ticket_api.csproj",
+  "projectFilePath": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\ticket\\ticket_api\\ticket_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cifue\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\cifue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

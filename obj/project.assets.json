@@ -509,11 +509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\back\\ticket_api\\ticket_api.csproj",
+      "projectUniqueName": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\ticket\\ticket_api\\ticket_api.csproj",
       "projectName": "ticket_api",
-      "projectPath": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\back\\ticket_api\\ticket_api.csproj",
+      "projectPath": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\ticket\\ticket_api\\ticket_api.csproj",
       "packagesPath": "C:\\Users\\cifue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\back\\ticket_api\\obj\\",
+      "outputPath": "C:\\Users\\cifue\\Desktop\\Prueba tecnica\\ticket\\ticket_api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cifue\\AppData\\Roaming\\NuGet\\NuGet.Config"
